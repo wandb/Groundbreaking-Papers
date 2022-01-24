@@ -7,7 +7,7 @@
 <br>
 <br>
 
-[![GitHub](https://img.shields.io/github/stars/init27/Groundbreaking-Papers?color=orange&logo=github)](https://img.shields.io/github/stars/vopani/jaxton?color=yellowgreen&logo=github)
+[![GitHub](https://img.shields.io/github/stars/init27/Groundbreaking-Papers?color=orange&logo=github)](https://img.shields.io/github/stars/init27/Groundbreaking-Papers?color=orange&logo=github)
 [![Twitter](https://img.shields.io/twitter/follow/bhutanisanyam1)](https://twitter.com/bhutanisanyam1)
   
 </div>
